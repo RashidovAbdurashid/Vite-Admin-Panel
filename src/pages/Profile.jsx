@@ -3,7 +3,7 @@ import React from 'react'
 function Profile() {
   return (
     <div>
-      Profele
+      Prof11111ele
     </div>
   )
 }
